@@ -20,7 +20,7 @@ Contains Language resources.
     *   Read more about applying localised labels in the following chapter:
         :ref:`xliff_api`.
 
-In the folder :file:`EXT:my_extension/Resources/Private/Languages/` language
+In the folder :file:`EXT:my_extension/Resources/Private/Language/` language
 files are stored in format :file:`.xlf`.
 
 This folder contains all language labels supplied by the extension in the
